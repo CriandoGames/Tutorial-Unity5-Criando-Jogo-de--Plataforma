@@ -8,7 +8,7 @@ public class MenuController : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        //teste primeiro GIt
+       
     }
 
     // Update is called once per frame
